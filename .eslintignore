@@ -1,0 +1,5 @@
+# Ignore the test folder
+test/
+
+# Ignore all files ending with .test.js
+**/*.test.js

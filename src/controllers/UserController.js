@@ -1,11 +1,11 @@
 const data = [
   {
-    id: 1,
+    id: 'P001',
     title: 'Data Example 1',
     author: 'Data Example 1'
   },
   {
-    id: 2,
+    id: 'P002',
     title: 'Data Example 2',
     author: 'Data Example 2'
   }
